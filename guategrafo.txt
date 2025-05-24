@@ -1,0 +1,7 @@
+Mixco GuatemalaCity 0.6 0.9 1.2 2.2
+Mixco VillaNueva 0.4 0.6 0.8 1.5
+Mixco SanLucas 0.3 0.5 0.7 1.2
+Quetzaltenango SanMarcos 1.0 1.5 2.0 3.5
+Retalhuleu Mazatenango 0.9 1.3 1.6 2.9
+SanLucas GuatemalaCity 0.8 1.2 1.5 2.5
+Amatitlan VillaNueva 0.6 0.9 1.2 2.0
